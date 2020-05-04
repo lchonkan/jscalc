@@ -10,7 +10,7 @@ body {
 
 .calc-container {
     /*Formatting the container*/
-    max-width: 500px;
+    width: 400px;
 
     background-color: black;
 
@@ -55,8 +55,8 @@ body {
 .btn {
     background-color: rgb(211, 207, 207);   
     width: 24.5%;
-    height: 122px;
-    margin-bottom: 0.5%;
+    height: 100px;
+    margin-bottom: 0%;
     border-radius: 0;
     border: none;
 }
